@@ -60,3 +60,60 @@ footer.page-footer {
   border: solid 0.5px #979797;
 
 }
+
+.main-btn {
+  width: 242px;
+  height: 45px;
+  border-radius: 3px;
+  background-image: linear-gradient(260deg, #f5515f, #9f041b);
+}
+
+
+.Bitmap {
+  width: 623px;
+  height: 501px;
+}
+
+.about-me-text{
+/*  width: 475px;
+  height: 100px;*/
+  opacity: 0.5;
+  font-family: Inconsolata;
+  font-size: 22px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.14;
+  text-align: center;
+  color: #434446;
+  color: var(--charcoal-grey);
+}
+
+.about-me-title {
+/*  width: 209.5px;
+  height: 30px;
+*/  
+  font-family: Rajdhani;
+  font-size: 24px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 0.8px;
+  text-align: center;
+  color: #434446;
+  color: var(--charcoal-grey);
+}
+
+
+.social-network-btn{
+
+  font-family: Rajdhani;
+  font-size: 24px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 0.8px;
+  text-align: center;
+  color: #434446;
+  color: var(--charcoal-grey);
+}
