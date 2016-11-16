@@ -1,9 +1,17 @@
 nav ul a, nav .brand-logo {
-  color: #444;
+  color: #444444;
+}
+
+hr {
+  opacity: 0.25;
+  border-top: solid 0.5px #9ea2b6;
 }
 
 p {
-  line-height: 2rem;
+  font-family: 'Inconsolata', monospace;
+  font-size: 18px;
+	line-height: 1.3;
+	color: #697285;
 }
 
 footer.page-footer {
@@ -74,15 +82,12 @@ footer.page-footer {
   background-image: linear-gradient(260deg, #f5515f, #9f041b);
 }
 
-
 .Bitmap {
   width: 623px;
   height: 501px;
 }
 
 .about-me-text{
-/*  width: 475px;
-  height: 100px;*/
   opacity: 0.5;
   font-family: Inconsolata;
   font-size: 22px;
@@ -92,11 +97,10 @@ footer.page-footer {
   line-height: 1.14;
   text-align: center;
   color: #434446;
-  color: var(--charcoal-grey);
 }
 
 .about-me-title {
-  font-family: Rajdhani;
+  font-family: 'Rajdhani', sans-serif;
   font-size: 24px;
   font-weight: 500;
   font-style: normal;
@@ -104,13 +108,11 @@ footer.page-footer {
   letter-spacing: 0.8px;
   text-align: center;
   color: #434446;
-  color: var(--charcoal-grey);
 }
 
 
 .social-network-btn{
-
-  font-family: Rajdhani;
+  font-family: 'Rajdhani', sans-serif;
   font-size: 24px;
   font-weight: 500;
   font-style: normal;
@@ -118,5 +120,80 @@ footer.page-footer {
   letter-spacing: 0.8px;
   text-align: center;
   color: #434446;
-  color: var(--charcoal-grey);
+}
+
+.video-section {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.video-title {
+	color: #565961;
+  font-family: 'Rajdhani', sans-serif;
+	font-size: 22.5px;
+	font-weight: bold;
+	letter-spacing: 1.7px;
+}
+
+.video-container {
+}
+
+
+
+.tech-section {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.tech-title {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 35.1px;
+  font-weight: bold;
+  line-height: 1.2;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #565961;
+  margin-bottom: 60px;
+}
+
+
+ .tech-subtitle {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 22.5px;
+    font-weight: bold;
+    line-height: 1.4;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #565961;
+ }
+
+ .tech-description {
+   text-align: center;
+ }
+
+ .course-section {
+   padding-top: 60px;
+   padding-bottom: 60px;
+ }
+
+ .course-title {
+   font-family: 'Rajdhani', sans-serif;
+   font-size: 35.1px;
+   font-weight: bold;
+   line-height: 1.2;
+   letter-spacing: 1px;
+   text-align: center;
+   color: #565961;
+   margin-bottom: 30px;
+ }
+
+.course-videotitle {
+  font-family: 'Rajdhani', sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	letter-spacing: 1.7px;
+	text-align: center;
+	color: #434446;
+}
+
+.course-subtitle {
 }
