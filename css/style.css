@@ -1,5 +1,4 @@
-nav ul a,
-nav .brand-logo {
+nav ul a, nav .brand-logo {
   color: #444;
 }
 
@@ -7,17 +6,28 @@ p {
   line-height: 2rem;
 }
 
-
-
 footer.page-footer {
   margin: 0;
 }
+
+ .header-subtitle {
+  font-family: 'Rajdhani', sans-serif;
+  opacity: 0.8;
+  color: #565961;
+  font-size: 2em;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: 1.9px;
+  text-align: center;
+  padding-top: 65px;
+  padding-bottom: 40px;
+ }
+
 
 .mongo-background {
   background: url("../img/mongoDB.png") no-repeat center;
   background-size: cover;
   height: 85%;
-
 }
 
 .curso-background {
@@ -28,42 +38,38 @@ footer.page-footer {
 }
 
 .main-background {
-  background: url("../img/background@3x.png") no-repeat center;
+  background: url("../img/background@2x.jpg") no-repeat center;
   background-size: cover;
-  height: 90%;
-
+  height: 740px;
 }
+
 .tec-background {
   background: url("../img/tec.png") no-repeat center;
   background-size: contain;
   height: 20%;
-
 }
 
 .Rectangle-4 {
-
   height: 209.5px;
   background-color: #f7f9fa;
 
 }
 .Rectangle-5 {
-
   height: 1024px;
   background-color: #f7f9fa;
-
 }
 
 .plan-container{
   width: 100%;
-  /*height: 230px;*/
   background-color: #f6f6f6;
   border: solid 0.5px #979797;
-
 }
 
 .main-btn {
+  font-size: 16px;
   width: 242px;
   height: 45px;
+  line-height: 45px;
   border-radius: 3px;
   background-image: linear-gradient(260deg, #f5515f, #9f041b);
 }
@@ -90,9 +96,6 @@ footer.page-footer {
 }
 
 .about-me-title {
-/*  width: 209.5px;
-  height: 30px;
-*/  
   font-family: Rajdhani;
   font-size: 24px;
   font-weight: 500;
