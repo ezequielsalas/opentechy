@@ -110,6 +110,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/java8-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61650,
+		"inputAbbreviatedPath": "\/img\/java8-logo.png",
+		"outputAbbreviatedPath": "\/img\/java8-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/java8-logo@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13839,
+		"inputAbbreviatedPath": "\/img\/java8-logo@2x.png",
+		"outputAbbreviatedPath": "\/img\/java8-logo@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/materialize.png": {
 		"fileType": 32768,
 		"ignore": 0,
