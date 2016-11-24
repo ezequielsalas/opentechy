@@ -89,7 +89,7 @@ footer.page-footer {
   height: 45px;
   line-height: 45px;
   border-radius: 3px;
-  background-image: linear-gradient(-134deg, #1DA1F2 0%,#1DA1F2 100%);
+  background-image: linear-gradient( -134deg, #1DA1F2 0%,#1DA1F2 100%);
 }
 
 .Bitmap {
