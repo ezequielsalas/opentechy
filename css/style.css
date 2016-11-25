@@ -3,6 +3,7 @@ nav ul a, nav .brand-logo {
 }
 
 hr {
+  margin: 0;
   opacity: 0.25;
   border-top: solid 0.5px #9ea2b6;
 }
@@ -80,6 +81,15 @@ footer.page-footer {
   line-height: 45px;
   border-radius: 3px;
   background-image: linear-gradient(260deg, #f5515f, #9f041b);
+}
+
+.secondary-btn {
+  font-size: 16px;
+  width: 260px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 3px;
+  background-image: linear-gradient( -134deg, #1DA1F2 0%,#1DA1F2 100%);
 }
 
 .Bitmap {
@@ -202,7 +212,7 @@ footer.page-footer {
 }
 
 .ezequiel {
-  background: url("../img/ezequiel.jpg") no-repeat center;
+  background: url("../img/ezequiel.JPG") no-repeat center;
   background-size: cover;
   height: 500px;
 }
@@ -218,4 +228,43 @@ footer.page-footer {
   text-align: center;
   max-width: 500px;
   margin: 0 auto;
+}
+
+.no-margin {
+  margin-bottom: 0;
+}
+.no-padding-bottom {
+  padding-bottom: 0;
+}
+
+.card {
+  box-shadow: none;
+}
+
+.card .card-action {
+  border-top: none;
+}
+
+.plan-container {
+  background-color: #F7F9FA;
+  border: none;
+}
+
+.card-content p, span, h2 {
+  font-family: 'Rajdhani', sans-serif;
+}
+
+.card .card-content .card-title {
+  color: #434446;
+  font-weight: bold;
+}
+
+h2.card-title.price {
+  font-size: 3em;
+}
+
+
+
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-floating) {
+  margin-right: 0;
 }
