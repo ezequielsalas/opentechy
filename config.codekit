@@ -11,13 +11,13 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/img\/angular-icon@2x.png": {
+	"\/img\/angular-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3695,
-		"inputAbbreviatedPath": "\/img\/angular-icon@2x.png",
-		"outputAbbreviatedPath": "\/img\/angular-icon@2x.png",
+		"initialSize": 3731,
+		"inputAbbreviatedPath": "\/img\/angular-logo.png",
+		"outputAbbreviatedPath": "\/img\/angular-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -55,50 +55,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/group-4@2x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1842,
-		"inputAbbreviatedPath": "\/img\/group-4@2x.png",
-		"outputAbbreviatedPath": "\/img\/group-4@2x.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/group-5.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1646,
-		"inputAbbreviatedPath": "\/img\/group-5.png",
-		"outputAbbreviatedPath": "\/img\/group-5.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/group-5@2x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3584,
-		"inputAbbreviatedPath": "\/img\/group-5@2x.png",
-		"outputAbbreviatedPath": "\/img\/group-5@2x.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/group-9@2x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2244,
-		"inputAbbreviatedPath": "\/img\/group-9@2x.png",
-		"outputAbbreviatedPath": "\/img\/group-9@2x.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/imgpsh_fullsize.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -106,50 +62,6 @@
 		"initialSize": 37836,
 		"inputAbbreviatedPath": "\/img\/imgpsh_fullsize.png",
 		"outputAbbreviatedPath": "\/img\/imgpsh_fullsize.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/java8-logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 61650,
-		"inputAbbreviatedPath": "\/img\/java8-logo.png",
-		"outputAbbreviatedPath": "\/img\/java8-logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/java8-logo@2x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 13839,
-		"inputAbbreviatedPath": "\/img\/java8-logo@2x.png",
-		"outputAbbreviatedPath": "\/img\/java8-logo@2x.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/materialize.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2012,
-		"inputAbbreviatedPath": "\/img\/materialize.png",
-		"outputAbbreviatedPath": "\/img\/materialize.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/materialize@2x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4337,
-		"inputAbbreviatedPath": "\/img\/materialize@2x.png",
-		"outputAbbreviatedPath": "\/img\/materialize@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -172,28 +84,6 @@
 		"initialSize": 40212,
 		"inputAbbreviatedPath": "\/img\/sam_store_mini.png",
 		"outputAbbreviatedPath": "\/img\/sam_store_mini.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/springframework.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 11931,
-		"inputAbbreviatedPath": "\/img\/springframework.png",
-		"outputAbbreviatedPath": "\/img\/springframework.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/tec.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 85012,
-		"inputAbbreviatedPath": "\/img\/tec.png",
-		"outputAbbreviatedPath": "\/img\/tec.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
